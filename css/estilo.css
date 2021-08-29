@@ -1,7 +1,33 @@
 body{
 
 	background-color: paleturquoise;
+	margin-right: 10%;
+	margin-left: 10%;
 	
+}
+
+
+h1{
+
+text-align: center;
+border: 3px dotted#fff ;
+}
+
+p{
+
+text-align: justify;
+text-indent: 30px;
+font-size: 18px;
+}
+
+img{
+
+	width: 80%;
+}
+
+figure{
+
+	text-align: center;
 }
 
 
